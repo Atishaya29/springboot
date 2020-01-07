@@ -1,0 +1,2 @@
+gateway.ip=10.201.219.119
+token-expiration=840000
